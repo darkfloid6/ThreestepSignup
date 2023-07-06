@@ -1,0 +1,16 @@
+
+
+body{
+  margin:0;
+}
+div.container{
+  background-color: #ccc;
+  padding: 6px;
+  margin: 6px;
+  border-radius: 7px;
+  position: relative;
+  display: inline-flex;
+}
+h1.topic{
+  
+}
